@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Joe aka RiverJAM
 
 <!--
 **RiverJAM/RiverJAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am a Developer and Tutor.
+- 🔭 I’m currently working on machine learning applications for fantasy baseball.
+- 🌱 I’m currently learning more about ai with fast.ai
+- 👯 I’m looking to collaborate on projects related to education.
