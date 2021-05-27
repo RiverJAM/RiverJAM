@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am a Developer and Tutor.
+## I am a developer and tutor.
 - 🔭 I’m currently working on machine learning applications for fantasy baseball.
 - 🌱 I’m currently learning more about ai with fast.ai
 - 👯 I’m looking to collaborate on projects related to education.
