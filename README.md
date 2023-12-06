@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects related to education, politics and sports.
 - 😄 Pronouns:he/him
 - ⚡ Fun fact:I am a musician perform all over Chicago.
+- 📫 How to reach me: send me an email at thetutorjoemonahan@gmail.com
