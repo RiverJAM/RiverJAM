@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am a developer and tutor.
-- 🔭 I’m currently working on machine learning applications for fantasy baseball.
-- 🌱 I’m currently learning more about ai with fast.ai
-- 👯 I’m looking to collaborate on projects related to education.
+## I am a developer, data analyst and tutor.
+- I am currently looking for a job
+- 🔭 I’m currently working on building a web app with some friends.
+- 🌱 I’m currently learning more about data analysis on coursera.
+- 👯 I’m looking to collaborate on projects related to education, politics and sports.
+- 😄 Pronouns:he/him
+- ⚡ Fun fact:I am a musician perform all over Chicago.
